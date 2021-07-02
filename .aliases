@@ -1,0 +1,5 @@
+# Set current directory to vala source code repo directory
+alias valasrc="cd ~/source/vala"
+# Set current directory to the root folder of all my code projects
+alias workspace="cd ~/workspace"
+
