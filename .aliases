@@ -2,4 +2,6 @@
 alias valasrc="cd ~/source/vala"
 # Set current directory to the root folder of all my code projects
 alias workspace="cd ~/workspace"
+# Set current directory to sublime projects folder
+alias sublime-projects="cd ~/workspace/sublime-projects"
 
