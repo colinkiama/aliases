@@ -4,4 +4,5 @@ alias valasrc="cd ~/source/vala"
 alias workspace="cd ~/workspace"
 # Set current directory to sublime projects folder
 alias sublime-projects="cd ~/workspace/sublime-projects"
+alias notion="flatpak run org.mozilla.firefox https://www.notion.so&"
 
